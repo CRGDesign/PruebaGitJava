@@ -9,5 +9,7 @@
  * @author karly
  */
 public class Prueba {
-    
+    public int suma(int a, int b){
+        return a+b;
+    }
 }
